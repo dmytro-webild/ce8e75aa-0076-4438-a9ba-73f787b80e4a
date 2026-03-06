@@ -67,7 +67,7 @@ export default function AboutPage() {
               description: "Seamlessly watch on any device with automatic progress synchronization.",
             },
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/modern-streaming-interface-dashboard-sho-1772776679160-6293dd61.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/modern-streaming-interface-dashboard-sho-1772776679160-6293dd61.png?_wi=2"
           imageAlt="Premium Streaming Features"
           mediaAnimation="slide-up"
           imagePosition="right"
@@ -90,7 +90,7 @@ export default function AboutPage() {
               title: "Innovation First",
               description: "We continuously innovate to bring cutting-edge 3D anime streaming technology to our platform.",
               tag: "Values",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/technical-visualization-of-3d-rendering--1772776678716-2d3e73e7.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/technical-visualization-of-3d-rendering--1772776678716-2d3e73e7.png?_wi=2",
               imageAlt: "Innovation",
             },
             {
@@ -98,7 +98,7 @@ export default function AboutPage() {
               title: "Quality Content",
               description: "Every anime on our platform is carefully curated to ensure the highest quality viewing experience.",
               tag: "Values",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ultra-hd-anime-scene-split-showing-compa-1772776678690-dab1e125.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ultra-hd-anime-scene-split-showing-compa-1772776678690-dab1e125.png?_wi=2",
               imageAlt: "Quality",
             },
             {
@@ -106,7 +106,7 @@ export default function AboutPage() {
               title: "User Focused",
               description: "Your satisfaction is at the heart of everything we do. We listen and adapt to our community.",
               tag: "Values",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ai-powered-library-interface-with-smart--1772776679578-a4bc79cf.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ai-powered-library-interface-with-smart--1772776679578-a4bc79cf.png?_wi=2",
               imageAlt: "User Focused",
             },
           ]}
