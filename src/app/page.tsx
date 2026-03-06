@@ -58,7 +58,7 @@ export default function HomePage() {
               imageAlt: "3D Anime Scene 2",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/epic-3d-anime-battle-scene-with-advanced-1772776677907-9afa5cc5.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/epic-3d-anime-battle-scene-with-advanced-1772776677907-9afa5cc5.png?_wi=1",
               imageAlt: "3D Anime Scene 3",
             },
             {
@@ -72,11 +72,11 @@ export default function HomePage() {
               imageAlt: "Premium Content 1",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/futuristic-3d-anime-scene-with-advanced--1772776678871-1b468377.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/futuristic-3d-anime-scene-with-advanced--1772776678871-1b468377.png?_wi=1",
               imageAlt: "Premium Content 2",
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/romantic-3d-anime-scene-with-soft-colors-1772776677859-74f69263.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/romantic-3d-anime-scene-with-soft-colors-1772776677859-74f69263.png?_wi=1",
               imageAlt: "Premium Content 3",
             },
             {
@@ -124,7 +124,7 @@ export default function HomePage() {
               description: "Seamlessly watch on any device with automatic progress synchronization.",
             },
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/modern-streaming-interface-dashboard-sho-1772776679160-6293dd61.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/modern-streaming-interface-dashboard-sho-1772776679160-6293dd61.png?_wi=1"
           imageAlt="Premium Streaming Features"
           mediaAnimation="slide-up"
           imagePosition="right"
@@ -147,7 +147,7 @@ export default function HomePage() {
               title: "3D Animation Engine",
               description: "Experience anime with advanced 3D rendering technology for immersive visuals.",
               tag: "Technology",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/technical-visualization-of-3d-rendering--1772776678716-2d3e73e7.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/technical-visualization-of-3d-rendering--1772776678716-2d3e73e7.png?_wi=1",
               imageAlt: "3D Animation Engine",
             },
             {
@@ -155,7 +155,7 @@ export default function HomePage() {
               title: "Ultra HD Resolution",
               description: "Stream up to 4K resolution with HDR support for the best picture quality.",
               tag: "Quality",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ultra-hd-anime-scene-split-showing-compa-1772776678690-dab1e125.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ultra-hd-anime-scene-split-showing-compa-1772776678690-dab1e125.png?_wi=1",
               imageAlt: "Ultra HD Resolution",
             },
             {
@@ -171,7 +171,7 @@ export default function HomePage() {
               title: "Smart Library",
               description: "AI-powered recommendations and intelligent library management.",
               tag: "AI",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ai-powered-library-interface-with-smart--1772776679578-a4bc79cf.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ai-powered-library-interface-with-smart--1772776679578-a4bc79cf.png?_wi=1",
               imageAlt: "Smart Library",
             },
             {
@@ -209,42 +209,42 @@ export default function HomePage() {
               id: "anime-1",
               name: "Celestial Chronicles",
               price: "Included",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/promotional-poster-for-celestial-chronic-1772776679233-4cb3eacf.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/promotional-poster-for-celestial-chronic-1772776679233-4cb3eacf.png?_wi=1",
               imageAlt: "Celestial Chronicles",
             },
             {
               id: "anime-2",
               name: "Neon Dreams",
               price: "Premium",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/vibrant-neon-themed-anime-poster-for-neo-1772776679199-09e35e1c.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/vibrant-neon-themed-anime-poster-for-neo-1772776679199-09e35e1c.png?_wi=1",
               imageAlt: "Neon Dreams",
             },
             {
               id: "anime-3",
               name: "Digital Revolution",
               price: "Included",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/digital-themed-anime-poster-showing-tech-1772776680201-dff3a303.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/digital-themed-anime-poster-showing-tech-1772776680201-dff3a303.png?_wi=1",
               imageAlt: "Digital Revolution",
             },
             {
               id: "anime-4",
               name: "Mystical Realms",
               price: "Premium",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/fantasy-anime-poster-for-mystical-realms-1772776678545-b329b3ec.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/fantasy-anime-poster-for-mystical-realms-1772776678545-b329b3ec.png?_wi=1",
               imageAlt: "Mystical Realms",
             },
             {
               id: "anime-5",
               name: "Infinite Horizons",
               price: "Included",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/epic-adventure-anime-poster-with-vast-la-1772776679388-92e68eeb.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/epic-adventure-anime-poster-with-vast-la-1772776679388-92e68eeb.png?_wi=1",
               imageAlt: "Infinite Horizons",
             },
             {
               id: "anime-6",
               name: "Eternal Destiny",
               price: "Premium",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/dramatic-anime-poster-for-eternal-destin-1772776679284-97342bfb.png",
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/dramatic-anime-poster-for-eternal-destin-1772776679284-97342bfb.png?_wi=1",
               imageAlt: "Eternal Destiny",
             },
           ]}
