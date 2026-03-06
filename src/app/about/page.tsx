@@ -28,9 +28,9 @@ export default function AboutPage() {
           brandName="AnimeVerse"
           navItems={[
             { name: "Home", id: "/" },
-            { name: "Catalog", id: "catalog" },
-            { name: "Pricing", id: "pricing" },
-            { name: "About", id: "about" },
+            { name: "Catalog", id: "/catalog" },
+            { name: "Pricing", id: "/pricing" },
+            { name: "About", id: "/about" },
           ]}
           button={{ text: "Start Streaming", href: "/pricing" }}
           animateOnLoad={true}
@@ -48,24 +48,16 @@ export default function AboutPage() {
           useInvertedBackground={false}
           bulletPoints={[
             {
-              title: "4K 3D Streaming",
-              description: "Watch anime in stunning 3D quality with immersive depth and crystal-clear visuals.",
-              icon: Zap,
+              title: "4K 3D Streaming",              description: "Watch anime in stunning 3D quality with immersive depth and crystal-clear visuals.",              icon: Zap,
             },
             {
-              title: "Exclusive Premium Content",
-              description: "Access early releases, premium series, and exclusive behind-the-scenes content.",
-              icon: Trophy,
+              title: "Exclusive Premium Content",              description: "Access early releases, premium series, and exclusive behind-the-scenes content.",              icon: Trophy,
             },
             {
-              title: "Advanced AI Recommendations",
-              description: "Personalized anime suggestions based on your viewing history and preferences.",
-              icon: Brain,
+              title: "Advanced AI Recommendations",              description: "Personalized anime suggestions based on your viewing history and preferences.",              icon: Brain,
             },
             {
-              title: "Multi-Device Sync",
-              description: "Seamlessly watch on any device with automatic progress synchronization.",
-            },
+              title: "Multi-Device Sync",              description: "Seamlessly watch on any device with automatic progress synchronization."},
           ]}
           imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/modern-streaming-interface-dashboard-sho-1772776679160-6293dd61.png?_wi=2"
           imageAlt="Premium Streaming Features"
@@ -86,29 +78,11 @@ export default function AboutPage() {
           animationType="slide-up"
           features={[
             {
-              id: "value-1",
-              title: "Innovation First",
-              description: "We continuously innovate to bring cutting-edge 3D anime streaming technology to our platform.",
-              tag: "Values",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/technical-visualization-of-3d-rendering--1772776678716-2d3e73e7.png?_wi=2",
-              imageAlt: "Innovation",
-            },
+              id: "value-1",              title: "Innovation First",              description: "We continuously innovate to bring cutting-edge 3D anime streaming technology to our platform.",              tag: "Values",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/technical-visualization-of-3d-rendering--1772776678716-2d3e73e7.png?_wi=2",              imageAlt: "Innovation"},
             {
-              id: "value-2",
-              title: "Quality Content",
-              description: "Every anime on our platform is carefully curated to ensure the highest quality viewing experience.",
-              tag: "Values",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ultra-hd-anime-scene-split-showing-compa-1772776678690-dab1e125.png?_wi=2",
-              imageAlt: "Quality",
-            },
+              id: "value-2",              title: "Quality Content",              description: "Every anime on our platform is carefully curated to ensure the highest quality viewing experience.",              tag: "Values",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ultra-hd-anime-scene-split-showing-compa-1772776678690-dab1e125.png?_wi=2",              imageAlt: "Quality"},
             {
-              id: "value-3",
-              title: "User Focused",
-              description: "Your satisfaction is at the heart of everything we do. We listen and adapt to our community.",
-              tag: "Values",
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ai-powered-library-interface-with-smart--1772776679578-a4bc79cf.png?_wi=2",
-              imageAlt: "User Focused",
-            },
+              id: "value-3",              title: "User Focused",              description: "Your satisfaction is at the heart of everything we do. We listen and adapt to our community.",              tag: "Values",              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/ai-powered-library-interface-with-smart--1772776679578-a4bc79cf.png?_wi=2",              imageAlt: "User Focused"},
           ]}
         />
       </div>

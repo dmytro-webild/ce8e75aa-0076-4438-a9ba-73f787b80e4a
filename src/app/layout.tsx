@@ -7,42 +7,27 @@ import { ServiceWrapper } from "@/components/ServiceWrapper";
 import Tag from "@/tag/Tag";
 
 const halant = Halant({
-  variable: "--font-halant",
-  subsets: ["latin"],
+  variable: "--font-halant",  subsets: ["latin"],
   weight: ["300", "400", "500", "600", "700"],
 });
 
 const inter = Inter({
-  variable: "--font-inter",
-  subsets: ["latin"],
+  variable: "--font-inter",  subsets: ["latin"],
 });
 
 const figtree = Figtree({
-  variable: "--font-figtree",
-  subsets: ["latin"],
+  variable: "--font-figtree",  subsets: ["latin"],
 });
 
 export const metadata: Metadata = {
-  title: "AnimeVerse - Premium 3D Anime Streaming Platform",
-  description: "Experience anime like never before with AnimeVerse. Stream premium 4K 3D anime content with immersive audio, exclusive series, and AI recommendations.",
-  keywords: "anime streaming, 3D anime, premium anime, 4K streaming, anime platform, HD anime",
-  openGraph: {
-    title: "AnimeVerse - Premium 3D Anime Streaming",
-    description: "The ultimate anime streaming experience with cutting-edge 3D technology and premium content.",
-    siteName: "AnimeVerse",
-    type: "website",
-    images: [
+  title: "AnimeVerse - Premium 3D Anime Streaming Platform",  description: "Experience anime like never before with AnimeVerse. Stream premium 4K 3D anime content with immersive audio, exclusive series, and AI recommendations.",  keywords: "anime streaming, 3D anime, premium anime, 4K streaming, anime platform, HD anime",  openGraph: {
+    title: "AnimeVerse - Premium 3D Anime Streaming",    description: "The ultimate anime streaming experience with cutting-edge 3D technology and premium content.",    siteName: "AnimeVerse",    type: "website",    images: [
       {
-        url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/a-stunning-3d-animated-scene-from-a-prem-1772776677928-7b3f2737.png",
-        alt: "AnimeVerse Premium 3D Streaming",
-      },
+        url: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/a-stunning-3d-animated-scene-from-a-prem-1772776677928-7b3f2737.png",        alt: "AnimeVerse Premium 3D Streaming"},
     ],
   },
   twitter: {
-    card: "summary_large_image",
-    title: "AnimeVerse - Premium 3D Anime Streaming",
-    description: "Experience premium anime in stunning 3D quality.",
-    images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/a-stunning-3d-animated-scene-from-a-prem-1772776677928-7b3f2737.png"],
+    card: "summary_large_image",    title: "AnimeVerse - Premium 3D Anime Streaming",    description: "Experience premium anime in stunning 3D quality.",    images: ["https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3AYjY9r2dtdkgBiuV2vP4mlhwtR/a-stunning-3d-animated-scene-from-a-prem-1772776677928-7b3f2737.png"],
   },
   robots: {
     index: true,
